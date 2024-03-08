@@ -1,1 +1,3 @@
-Ini isi pesan menjelaskan tentang program 
+Ini isi pesan menjelaskan tentang program
+ini saling berhubungan 
+repository ini saya buat untuk menunaikan tugas yang tersedia.
